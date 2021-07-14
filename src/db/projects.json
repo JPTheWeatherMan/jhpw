@@ -1,0 +1,8 @@
+[
+  {
+    "name": "JSON Styled Portfolio Website",
+    "description": "A simple website that serves as a resume",
+    "techStack": ["TypeScript", "React", "Material UI"],
+    "githubLink": "https://github.com/JPTheWeatherMan"
+  }
+]

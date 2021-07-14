@@ -1,0 +1,24 @@
+{
+  "about": {
+    "name": "Jarrett Hale",
+    "position": "Computer Science Student",
+    "school": "Eastern Kentucky University",
+    "status": "Full-time student",
+    "interests": [
+      "Flight simulation",
+      "Virtual Reality"
+    ],
+    "email": "JarrettPHale@gmail.com",
+    "discord": "ChocoThot#5365"
+  },
+  "links": {
+    "LinkedIn": {
+      "linkName": "/JarrettPHale",
+      "linkUrl": "https://www.linkedin.com/in/jarrett-hale-a82253189"
+    },
+    "GitHub": {
+      "linkName": "/JPTheWeatherMan",
+      "linkUrl": "https://github.com/JPTheWeatherMan"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "education": {
+    "institution": "Eastern Kentucky University",
+    "degree": "Bachelor of Science",
+    "program": "Computer Science",
+    "duration": "2021 - Present",
+    "year": "2"
+  },
+  "experiences": [
+    {
+      "position": "Computer Science Student",
+      "location": "Richmond, Kentucky",
+      "duration": "Current"
+    }
+  ],
+  "skills": {
+    "languages": [
+      "Java",
+      "Python",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "libraries and frameworks": [
+      "React",
+      "Express",
+      "Material UI",
+      "Keystone.js"
+    ]
+  }
+}
