@@ -67,9 +67,18 @@ const Resume: React.FC = () => {
           <span className={classes.text}>{experience.duration}</span>"
           <span className={classes.code}>,</span>
           {'\n'}
+          <Tabs count={3} />"<span className={classes.info}>entity</span>"
+          <span className={classes.code}>: </span>"
+          <span className={classes.text}>{experience.entity}</span>"
+          {'\n'}
           <Tabs count={3} />"<span className={classes.info}>location</span>"
           <span className={classes.code}>: </span>"
-          <span className={classes.text}>{experience.location}</span>"{'\n'}
+          <span className={classes.text}>{experience.location}</span>"
+          {'\n'}
+          <Tabs count={3} />"<span className={classes.info}>description</span>"
+          <span className={classes.code}>: </span>"
+          <span className={classes.text}>{experience.description}</span>"
+          {'\n'}
           <Tabs count={2} />
           {'}'}
           {i !== experiences.length - 1 && (

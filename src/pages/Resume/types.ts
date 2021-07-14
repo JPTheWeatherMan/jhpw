@@ -8,8 +8,10 @@ export interface Education {
 
 export interface Experience {
   position: string;
-  duration: string;
+  entity: string;
   location: string;
+  duration: string;
+  descrption: string;
 }
 
 export interface Skills {
