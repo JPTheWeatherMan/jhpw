@@ -11,7 +11,7 @@ export interface Experience {
   entity: string;
   location: string;
   duration: string;
-  descrption: string;
+  description: string;
 }
 
 export interface Skills {
